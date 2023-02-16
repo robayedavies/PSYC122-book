@@ -39,7 +39,7 @@ In this approach, the presentation is often brief about the context: the questio
 
 The reasons for this are understandable: methods are complex, technical, subjects for learning, and teachers and students do not also have time, perhaps, to think about statistics and about theoretical or measurement assumptions. 
 
-This is risky because it presents a misleading view of the challenge in learning methods: the challenge is *just* the (difficult enough) challenge of learning about statistical methods, or dealing with numbers. It is risky, also, because it implies that if you learn the method, and can match the textbook example -- the variables, the state of the data -- when it is your turn to do an analysis, all will be well.
+This is risky because it presents a misleading view of the challenge in learning methods: the misleading view is that the challenge is *just* the (difficult enough) challenge of learning about statistical methods, or dealing with numbers. It is risky, also, because it implies that if you learn the method, and can match the textbook example -- the variables, the state of the data -- when it is your turn to do an analysis, all will be well.
 
 A more productive approach -- this is the approach we will take -- is to expose, and talk about some of the real challenges that anybody who handles data, or quantitative evidence, in professional life. These challenges include:
 
