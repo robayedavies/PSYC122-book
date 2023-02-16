@@ -146,7 +146,7 @@ To work with the recordings:
 
 We do not provide further reading for this class but you will find it helpful to revise some of the key ideas you have been learning about PSYC122 and in other modules.
 
-- The lectures in *PSYC13* on: (week 1) the scientific method; (week 2) reliability and validity; (week 3) experimental design, especially between-subjects studies; (week 6) hypothesis testing; and (week 9) precise hypotheses.
+- The lectures in *PSYC123* on: (week 1) the scientific method; (week 2) reliability and validity; (week 3) experimental design, especially between-subjects studies; (week 6) hypothesis testing; and (week 9) precise hypotheses.
 - The lecture in *PSYC122* on (week 11) correlation. 
 
 ### Pre-lab activity 1
@@ -154,11 +154,14 @@ We do not provide further reading for this class but you will find it helpful to
 In weeks 16-19, we will be working together on a research project to investigate how people vary in their response to health advice.
 
 Completing the project involves collecting responses from PSYC122 students.
-In our class activities, we will analyze the data we collect.
 
 To enter your responses, we invite you to complete a short survey.
 
-Complete the survey by clicking on the link [here](https://lancasteruni.eu.qualtrics.com/jfe/form/SV_0ww8HHxx172TPJs)
+Complete the survey by clicking on the link [here](https://lancasteruni.eu.qualtrics.com/jfe/form/SV_6SDgBLz8RrMR3oy)
+
+::: callout-tip
+In our week 19 class activity, we will analyze the data we collect here.
+:::
 
 #### Survey information
 
