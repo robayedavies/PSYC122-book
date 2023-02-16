@@ -1,23 +1,30 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "PSYC122-book"
-  author: "Jane Doe"
-  date: "15/02/2023"
+  title: "PSYC122: Psychological data analysis weeks 16-19"
+  number-sections: true
+  author: "Rob Davies"
+  date: "2023-02-15"
   chapters:
     - index.qmd
-    - intro.qmd
+    - week.16.qmd
+    - week.17.qmd
+    - week.18.qmd
+    - week.19.qmd
     - summary.qmd
     - references.qmd
-
+      
 bibliography: references.bib
+csl: psychological-bulletin.csl
 
 format:
   html:
     theme: cosmo
+    link-external-icon: true
+    link-external-newwindow: true
   pdf:
     documentclass: scrreprt
 
 editor: visual
-
