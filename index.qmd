@@ -4,9 +4,9 @@ Welcome to our overview of the materials and activities you will work with in **
 
 We will complete a series of four classes which will run in **weeks 16-19**.
 
-::: callout-tip
 The classes are designed to help students to revise and put into practice some of the key ideas and skills you have been developing in the first year research methods modules *PSYC121, PSYC123 and PSYC124*.
 
+::: callout-tip
 We will reference lectures in these other modules where you may benefit from *connecting* ideas about research integrity and open science to your critical thinking on what we are doing.
 :::
 
