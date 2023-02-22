@@ -288,12 +288,6 @@ The `how-to` shows you what function you need and how you should write the funct
 
 This process of adapting demonstration code is a process critical to data literacy and to effective problem solving in working with data in psychological science.
 
-::: callout-tip
-You can now download the answers version of the activity workbook .R [here](files/2022-23-PSYC122-w16-workbook-answers.R).
-
-- The answers version presents my answers for questions, and some extra information where that is helpful.
-:::
-
 #### What is in the data files
 
 Each of the data files we will work with has a similar structure, as you can see in this extract.
