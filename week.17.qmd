@@ -115,17 +115,17 @@ To work with the recordings:
 - Try out the coding exercises in the how-to and the workbook (see @sec-w17-resources) to see for yourself how you can construct visualizations and do analyses.
 :::
 
-In the lecture, I talk about how we use the linear model to estimate the association between an outcome like mean accuracy of understanding and a predictor like vocabulary knowledge *as the expected change in the average outcome*, given variation in the predictor.
+In the lecture, I talk about how we use the linear model to estimate the association between (1.) an outcome like mean accuracy of understanding and (2.) a predictor like vocabulary knowledge: estimating the association as the *expected change* in the *average outcome* given variation in the predictor.
 
-In the plot on the right of @fig-ridges, we show the distribution curve of mean (comprehension) accuracy scores observed at each value of vocabulary
+In the plot on the right of @fig-ridges, we show the distribution curve of mean (comprehension) accuracy scores observed at each value of vocabulary.
 You can see that the middle -- the average -- of each distribution, marked by a line, increases as we go from left (low scores) to right (high scores).
 
 ```{r}
 #| label: fig-ridges
-#| fig-cap: "Plots showing the association between the outcome mean accuracy of understanding a predictor, vocabulary knowledge, with the plot on the right modified to show how accuracy of understanding varies between individuals in the sample with the sample vocabularytest scores"
+#| fig-cap: "Plots showing the association between the outcome mean accuracy of understanding a predictor, vocabulary knowledge. Both plots show the same data. The plot on the right is modified to show how accuracy of understanding varies between individuals in the sample with the sample vocabulary test scores"
 #| fig-alt: "The figure shows two scatterplots. In both, points represent scores on measures of mean accuracy of understanding and on Shipley vocabulary knowledge. Both plots represent the same data. In the plot on the left, a line indicates the trend where increasing vocabulary scores are associated with higher levels of comprehension accuracy, on average. In the plot on the right, vertical density curves are superimposed on the spread of points at each vocabulary score level. The vertical location of the midline in each curve can be seen to trend upwards for increasing vocabulary." 
-#| fig-width: 8
-#| fig-height: 4
+#| fig-width: 9
+#| fig-height: 5
 #| warning: false
 #| message: false
 #| echo: false
@@ -162,6 +162,7 @@ p.scatter + p.ridges
 ```
 
 In the lecture, I talk about how the information we get from a linear model allows us to *predict* the way in which outcome values may vary (increase or decrease), given different values in the predictor variable.
+
 We could form a prediction line anywhere but the linear model helps us to estimate the prediction ("best fit") line that minimizes the differences between observed and predicted outcomes: *the residuals*, as shown in @fig-lm-show-model-residuals.
 
 ```{r}
@@ -197,8 +198,9 @@ ggplot(study.one, aes(x = SHIPLEY, y = mean.acc)) +
 ```
 
 The lectures end with a discussion of the critical information you must identify and extract when you view the summary of a linear model results.
-I show you how to report the results.
-**I give you examples of the conventional language you can use to report your results.**
+
+I then show you how to report the results.
+I give you examples of the conventional language you can use to report your results.
 
 ::: callout-tip
 In reporting linear model results, we need to explain what they tell us about the association between outcome and predictor variables.
@@ -209,7 +211,7 @@ In the how-to guide and in the lab activity workbook (see @sec-w17-resources), w
 
 ### Links to other classes
 
-We do not provide further reading for this class but you will find it helpful to revise some of the key ideas you have been learning about PSYC122 and in other modules.
+We do not provide further reading for this class but you will find it helpful to revise some of the key ideas you have been learning about, in PSYC122 and in other modules.
 
 - The lectures in *PSYC123* on: (week 2) reliability and validity; (week 3) experimental design, especially between-subjects studies and individual differences; and (week 9) precise hypotheses.
 - The lecture in *PSYC122* (week 13) introducing the linear model. 
