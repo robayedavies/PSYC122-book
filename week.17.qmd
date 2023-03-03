@@ -363,7 +363,10 @@ You can see the columns:
 - `EDUCATION` education level code
 - `ETHNICITY` ethnicity (Office National Statistics categories) code
 
-### Answers
+### Answers {#sec-w17-answers}
 
-You will be able to download the answers version of the activity .R file in week 18.
-The answers version will present my answers for questions, and some extra information where that is helpful.
+::: callout-tip
+You can now download the answers version of the activity workbook .R [here](files/2022-23-PSYC122-w17-workbook-answers.R).
+:::
+
+The answers version presents my answers for questions, and some extra information where that is helpful.
