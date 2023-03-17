@@ -288,5 +288,8 @@ You can see the columns:
 
 ### Answers
 
-You will be able to download the answers version of the activity .R file in week 19.
-The answers version will present my answers for questions, and some extra information where that is helpful.
+::: callout-tip
+You can now download the answers version of the activity workbook .R [here](files/2022-23-PSYC122-w19-workbook-answers.R).
+:::
+
+The answers version presents my answers for questions, and some extra information where that is helpful.
